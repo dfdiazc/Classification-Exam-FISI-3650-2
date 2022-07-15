@@ -1,5 +1,4 @@
 # Classification-Exam-FISI-3650-2
-Second Classification Exam for the course FISI-3650
 
 This repository contains a solution to the second classification exam for the entrepreneurship course FISI-3650 at the University of the Andes.
 

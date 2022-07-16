@@ -1,0 +1,3 @@
+Github repository: https://github.com/dfdiazc/ClassificationExamFISI3650
+
+The file 'model.h5' must be in the same folder as 'model.py'
